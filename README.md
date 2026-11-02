@@ -23,6 +23,8 @@ This is a file-check service, not data cleanup, enrichment, Excel conversion, st
 
 Enquire through the same private channel where this sample was shared, or [email Jai Malkiewicz](mailto:jaimalkiewicz1999@gmail.com?subject=CSV%20handoff%20check%20enquiry). The same email is available for customer support, cancellations, refunds and disputes. Replies may be handled by an authorised AI assistant. Start with file size, record count, delimiter, intended handoff and generic rules; do not send a file or credentials in a public issue or comment. Only non-sensitive operational data is accepted. No customer/order, payroll, health, payment-card, password or API-token data. Source files are processed locally and are not submitted to external AI tools; AI assistance uses source-value-free findings. File-transfer and retention arrangements are agreed before intake.
 
+Read the [privacy and file-handling notice](PRIVACY.md) for correspondence and AI assistance, local CSV processing, provider handling, retention and privacy requests before sending information.
+
 Cancel before processing starts for a full refund. In-scope errors will be corrected or an appropriate refund arranged; if delivery cannot be provided, a revised date or refund for undelivered work will be offered. These terms do not limit rights that cannot lawfully be excluded. Payment and orders follow the agreed channel's rules.
 
 ## Verification and provenance
