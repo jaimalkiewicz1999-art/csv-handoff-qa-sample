@@ -4,13 +4,15 @@ A four-record demonstration of a report-only check for a small-business product,
 
 **Service: AUD 69 total. Supplier: Jai Malkiewicz, ABN 64 936 517 906. No GST charged.**
 
+**[Enquire about the A$69 check](mailto:jaimalkiewicz1999@gmail.com?subject=CSV%20handoff%20check%20enquiry)** — or email jaimalkiewicz1999@gmail.com. Start with a brief description and approximate file size/record count; please wait for an agreed private intake channel before sending a file. An enquiry does not commit you to an order.
+
 For one non-sensitive UTF-8 CSV up to 2,000 parsed data records, 100 columns and 10 MB, you receive a readable report, a position-only issue list, an explanation of each distinct issue type and up to 15 flagged records, and one same-scope recheck. You choose the rules: up to three required fields, one unique key of up to two fields, two plain-decimal fields and two ISO date fields. The service uses an offline checker and AI-assisted interpretation. Your original file stays unchanged. Human review is not claimed.
 
 ## Read the sample
 
-1. [Synthetic input](synthetic-input.csv): the small fictional file being checked.
-2. [Issue list](issues.csv): six errors and one warning, identified by parsed record number and column position.
-3. [Review notes](review-notes.md): explanation of each issue type and all three flagged records.
+1. [Review notes](review-notes.md): start here for a plain-language explanation of each issue type and all three flagged records.
+2. [Synthetic input](synthetic-input.csv): the small fictional file being checked; view on GitHub or in a text editor.
+3. [Issue list](issues.csv): six errors and one warning, identified by parsed record number and column position.
 4. [HTML report](report.html): download and open locally for the readable report; GitHub displays its source.
 5. [Delivery ZIP](synthetic-delivery.zip): the sample report package a buyer would receive. It contains no input CSV.
 6. [Manifest](manifest.json): source checksum, counts and checked-rule result.
