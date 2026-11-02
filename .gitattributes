@@ -1,0 +1,2 @@
+# Preserve exact demonstration bytes so the published manifest checksum is reproducible.
+* -text
