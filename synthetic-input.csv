@@ -1,0 +1,5 @@
+Item ID,Item,Units,Review date
+S-001,Fictional bracket,12,2026-10-15
+S-001,Fictional duplicate,$12,2026-02-30
+,"=HYPERLINK(""https://example.invalid"",""Open"")",5,2026-10-17
+S-004,Fictional short

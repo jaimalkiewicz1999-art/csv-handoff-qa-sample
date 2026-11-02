@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'">
+<title>CSV handoff QA report</title>
+<style>body{font:16px/1.5 system-ui,sans-serif;max-width:1100px;margin:2rem auto;padding:0 1rem;color:#17202b}table{border-collapse:collapse;width:100%}th,td{border:1px solid #ccd3d9;text-align:left;vertical-align:top;padding:.5rem}th{background:#e8edf2}tr:nth-child(even){background:#f6f8fa}.note{background:#fff4d6;padding:1rem}@media(max-width:700px){table{font-size:.8rem}}</style>
+<h1>CSV handoff QA report</h1>
+<p>4 data records · 6 errors · 1 warnings</p>
+<p class="note">Offline checks only. Record numbers count parsed data records after the header, not physical text lines. Columns C1, C2, etc. follow the source header order. No source cell values are included here. This report does not verify business facts or acceptance by another system.</p>
+<table><thead><tr><th>Severity</th><th>Record</th><th>Code</th><th>Column</th><th>Message</th></tr></thead><tbody><tr><td>error</td><td>2</td><td>number_format</td><td>C3</td><td>Declared number is not a plain signed decimal.</td></tr>
+<tr><td>error</td><td>2</td><td>date_format</td><td>C4</td><td>Declared date is not a valid YYYY-MM-DD calendar date.</td></tr>
+<tr><td>error</td><td>2</td><td>duplicate_key</td><td></td><td>Declared key repeats data record 1.</td></tr>
+<tr><td>warning</td><td>3</td><td>formula_like_cell</td><td>C2</td><td>Cell may be interpreted as a formula by spreadsheet software.</td></tr>
+<tr><td>error</td><td>3</td><td>required_blank</td><td>C1</td><td>Declared required field is blank.</td></tr>
+<tr><td>error</td><td>3</td><td>key_blank</td><td></td><td>Declared key has a blank part.</td></tr>
+<tr><td>error</td><td>4</td><td>row_width</td><td></td><td>Record has 2 fields; expected 4.</td></tr></tbody></table>
+</html>

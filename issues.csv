@@ -1,0 +1,8 @@
+severity,record,code,column,message
+error,2,number_format,C3,Declared number is not a plain signed decimal.
+error,2,date_format,C4,Declared date is not a valid YYYY-MM-DD calendar date.
+error,2,duplicate_key,,Declared key repeats data record 1.
+warning,3,formula_like_cell,C2,Cell may be interpreted as a formula by spreadsheet software.
+error,3,required_blank,C1,Declared required field is blank.
+error,3,key_blank,,Declared key has a blank part.
+error,4,row_width,,Record has 2 fields; expected 4.
