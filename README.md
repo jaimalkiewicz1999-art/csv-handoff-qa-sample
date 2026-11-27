@@ -2,7 +2,7 @@
 
 A four-record demonstration of a report-only check for a small-business product, stock or supplier-reference CSV. All input records are fictional. This is not client work, an order, a testimonial or evidence of a successful import.
 
-**Service: AUD 69 total. Supplier: Jai Malkiewicz, ABN 64 936 517 906. No GST charged.**
+**[CSV handoff service](https://aegis-forge-labs.jaimalkiewicz1999.chatgpt.site/csv-check) · A$69 total. Supplier: Jai Malkiewicz, ABN 64 936 517 906.**
 
 **[Enquire about the A$69 check](mailto:jaimalkiewicz1999@gmail.com?subject=CSV%20handoff%20check%20enquiry)** — or email jaimalkiewicz1999@gmail.com. Start with a brief description and approximate file size/record count; please wait for an agreed private intake channel before sending a file. An enquiry does not commit you to an order.
 
